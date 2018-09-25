@@ -1,5 +1,5 @@
 _repo: Stavrogin-s-Confession-and-The-Plan-of-The-Life-of-a-Great-Sinner-With-Introductory-and-Expla__57050
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Koteliansky, S. S. (Samuel Solomonovitch)
@@ -8,7 +8,7 @@ contributor:
     - Koteliansky, S.S.
     - Котелянский, Самуел Соломонович
     - Koteliansky, Samuel Solomonovitch
-    birthdate: &id001 1882
+    birthdate: 1882
     deathdate: 1955
     gutenberg_agent_id: '4566'
     url: http://www.gutenberg.org/2009/agents/4566
@@ -17,17 +17,22 @@ contributor:
     aliases:
     - Stephen, Virginia
     - Woolf, Virginia Stephen
-    birthdate: *id001
+    birthdate: 1882
     deathdate: 1941
     gutenberg_agent_id: '89'
     url: http://www.gutenberg.org/2009/agents/89
     wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+covers:
+- cover_type: archival
+  image_path: 57050-h/images/cover.jpg
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor Mikhailovich
     gutenberg_agent_id: '49166'
     url: http://www.gutenberg.org/2009/agents/49166
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57050#Stavrogin-s-Confession-and-The-Plan-of-The-Life-of-a-Great-Sinner-With-Introductory-and-Expla_
 gutenberg_issued: '2018-04-25'
 gutenberg_type: Text
 identifiers:
