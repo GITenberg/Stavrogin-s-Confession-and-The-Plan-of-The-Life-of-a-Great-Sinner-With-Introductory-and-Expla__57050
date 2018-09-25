@@ -1,0 +1,44 @@
+_repo: Stavrogin-s-Confession-and-The-Plan-of-The-Life-of-a-Great-Sinner-With-Introductory-and-Expla__57050
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Koteliansky, S. S. (Samuel Solomonovitch)
+    aliases:
+    - Koteliansky, Samuel Solomonovich
+    - Koteliansky, S.S.
+    - Котелянский, Самуел Соломонович
+    - Koteliansky, Samuel Solomonovitch
+    birthdate: &id001 1882
+    deathdate: 1955
+    gutenberg_agent_id: '4566'
+    url: http://www.gutenberg.org/2009/agents/4566
+    wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+  - agent_name: Woolf, Virginia
+    aliases:
+    - Stephen, Virginia
+    - Woolf, Virginia Stephen
+    birthdate: *id001
+    deathdate: 1941
+    gutenberg_agent_id: '89'
+    url: http://www.gutenberg.org/2009/agents/89
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor Mikhailovich
+    gutenberg_agent_id: '49166'
+    url: http://www.gutenberg.org/2009/agents/49166
+description: ''
+gutenberg_issued: '2018-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Stavrogin''s Confession and The Plan of The Life of a Great Sinner
+
+  With Introductory and Explanatory Notes'
+url: http://www.gutenberg.org/ebooks/57050
